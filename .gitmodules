@@ -1,0 +1,3 @@
+[submodule "SeetyDog-DirectX-Framework/External/spdlog"]
+	path = SeetyDog-DirectX-Framework/External/spdlog
+	url = https://github.com/gabime/spdlog.git
